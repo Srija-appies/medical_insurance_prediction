@@ -5,7 +5,7 @@ This is an Machine Learning based Web application deployed in heroku which will 
 Main features are Age, gender, body mass index, childrens, smoker or not, locality.
 
 
-![screenshot1](https://user-images.githubusercontent.com/53367536/110672252-77188b80-81f5-11eb-93db-59615e6e9cd4.JPG)
+![screenshot1]()
 
 ## Data collection and training
 The data is collected, after that seperated train and test data and created seperate data cleaning, transformation and feature engineering pipelines to avoid data leakage.
